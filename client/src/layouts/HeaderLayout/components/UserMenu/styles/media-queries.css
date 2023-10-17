@@ -1,0 +1,9 @@
+@media screen and (max-width: 768px) {
+  .mobile-nav-links {
+    display: list-item;
+  }
+
+  .desktop-nav-links {
+    display: none;
+  }
+}

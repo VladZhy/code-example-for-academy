@@ -1,0 +1,12 @@
+.modal-header__title {
+  /* reset margin globally */
+  margin: 0;
+  font-weight: 500;
+  /* change font size to system vars later */
+  font-size: 2.4rem;
+}
+
+.modal-header__close-button-icon {
+  height: 2.25em;
+  width: 2.25em;
+}

@@ -1,0 +1,26 @@
+nav {
+  margin-left: auto;
+  margin-right: 60px;
+  z-index: 1;
+}
+
+nav ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  list-style-type: none;
+}
+
+nav ul li a {
+  display: inline-block;
+  margin-right: 20px;
+  padding: 14px 24px;
+  font-weight: 500;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+  transition: 0.3s;
+}

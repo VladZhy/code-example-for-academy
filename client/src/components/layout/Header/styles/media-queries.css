@@ -1,0 +1,7 @@
+@media screen and (max-width: 768px) {
+  header {
+    position: relative;
+    height: 60px;
+    box-shadow: 0 0 1px 1px rgba(9, 9, 9, 0.23);
+  }
+}

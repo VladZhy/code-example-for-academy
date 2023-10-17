@@ -1,0 +1,31 @@
+@media screen and (max-width: 768px) {
+  nav {
+    display: none;
+    margin: 0;
+  }
+
+  .mobile-navbar-expanded {
+    display: block;
+  }
+
+  nav ul {
+    position: absolute;
+    flex-direction: column;
+    top: 62px;
+    left: 0;
+    background-color: white;
+    width: 100%;
+    min-height: calc(100vh - 62px);
+  }
+
+  nav ul li {
+    text-align: center;
+  }
+
+  nav ul li a {
+    position: relative;
+    margin-right: 0;
+    width: 100%;
+    padding: 24px 0;
+  }
+}

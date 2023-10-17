@@ -1,0 +1,8 @@
+.navbar-sign-up-link {
+  margin: 0;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: black;
+  padding: 12px 20px;
+  color: white;
+}

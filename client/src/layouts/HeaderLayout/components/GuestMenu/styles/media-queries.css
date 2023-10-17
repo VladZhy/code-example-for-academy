@@ -1,0 +1,14 @@
+@media screen and (max-width: 768px) {
+  .navbar-sign-up-link {
+    border: none;
+    border-radius: 0;
+    background-color: transparent;
+    padding: 24px 0;
+    color: black;
+  }
+
+  .navbar-sign-up-link:hover {
+    border: none;
+    background-color: none;
+  }
+}
